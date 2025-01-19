@@ -6,13 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
-				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/Enums/WeaponType.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FPWeapon/Materials/M_FPGun2.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FirstPerson/Input/IMC_Weapons.uasset",
-				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/UI/NewWidgetBlueprint.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/UI/UI.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/4X/3CHG2J1XZKC347AURMFGAF.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/P0/TBO0JNXXY390NMSGBF0UFY.uasset",
@@ -21,6 +19,16 @@
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile2.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FirstPerson/Blueprints/BP_Pickup_Mag.uasset",
+				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FPWeapon/Mesh/magazine.uasset",
+				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FPWeapon/Mesh/Material__40.uasset",
+				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FPWeapon/Mesh/Material__52.uasset",
+				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FPWeapon/Mesh/Material__53.uasset",
+				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FPWeapon/Mesh/Material__81.uasset",
+				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FirstPerson/Input/Actions/Reload.uasset",
+				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FirstPerson/Input/Actions/SwitchGuns.uasset",
+				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/Enums/WeaponType.uasset",
+				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/Enums/WeaponType.uasset",
+				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/UI/NewWidgetBlueprint.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/3B/JIW33NG1WFU96GROZNGXX3.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/XU/PCB3M4XHS7F55ZIXQGYZQH.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635.uasset",
@@ -50,14 +58,7 @@
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
 				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/A/JH/8TTAOMHN06NOHWGDJXKH1N.uasset",
-				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/7/ZX/JUGNISA5MV8V8FE530PDPQ.uasset",
-				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FPWeapon/Mesh/magazine.uasset",
-				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FPWeapon/Mesh/Material__40.uasset",
-				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FPWeapon/Mesh/Material__52.uasset",
-				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FPWeapon/Mesh/Material__53.uasset",
-				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FPWeapon/Mesh/Material__81.uasset",
-				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FirstPerson/Input/Actions/Reload.uasset",
-				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/FirstPerson/Input/Actions/SwitchGuns.uasset"
+				"C:/Users/ratch/OneDrive/Desktop/Unreal101-Ron-cohen/Unreal101_RonCohen/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/7/ZX/JUGNISA5MV8V8FE530PDPQ.uasset"
 			]
 		}
 	]
